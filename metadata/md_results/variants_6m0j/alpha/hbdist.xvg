@@ -1,0 +1,87 @@
+# This file was created Wed Aug 25 11:33:46 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/alpha/md/003_100ns
+# Command line:
+#   gmx hbond -f /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/alpha/md/003_100ns/md_noPBC.xtc -s /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/alpha/md/003_100ns/md.tpr -tu ns -n /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/alpha/md/003_100ns/../../index/index_md.ndx -temp 310.15 -num -ac -dist -ang -hx
+# gmx hbond is part of G R O M A C S:
+#
+# Gyas ROwers Mature At Cryogenic Speed
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Donor - Acceptor Distance (nm)"
+@    yaxis  label ""
+@TYPE xy
+    0.0025          0
+    0.0075          0
+    0.0125          0
+    0.0175          0
+    0.0225          0
+    0.0275          0
+    0.0325          0
+    0.0375          0
+    0.0425          0
+    0.0475          0
+    0.0525          0
+    0.0575          0
+    0.0625          0
+    0.0675          0
+    0.0725          0
+    0.0775          0
+    0.0825          0
+    0.0875          0
+    0.0925          0
+    0.0975          0
+    0.1025          0
+    0.1075          0
+    0.1125          0
+    0.1175          0
+    0.1225          0
+    0.1275          0
+    0.1325          0
+    0.1375          0
+    0.1425          0
+    0.1475          0
+    0.1525          0
+    0.1575          0
+    0.1625          0
+    0.1675          0
+    0.1725          0
+    0.1775          0
+    0.1825          0
+    0.1875          0
+    0.1925          0
+    0.1975          0
+    0.2025          0
+    0.2075          0
+    0.2125          0
+    0.2175          0
+    0.2225          0
+    0.2275          0
+    0.2325 0.00311954
+    0.2375  0.0249563
+    0.2425   0.324432
+    0.2475    1.23066
+    0.2525    3.13826
+    0.2575    5.63545
+    0.2625    8.23559
+    0.2675    10.0106
+    0.2725    11.9478
+    0.2775    13.9896
+    0.2825    15.5899
+    0.2875    16.3698
+    0.2925    16.7379
+    0.2975    15.8379
+    0.3025    14.3312
+    0.3075    12.8182
+    0.3125    10.7499
+    0.3175    9.38046
+    0.3225    8.11081
+    0.3275    6.67426
+    0.3325    5.76335
+    0.3375    5.01466
+    0.3425    4.33148
+    0.3475    3.74969

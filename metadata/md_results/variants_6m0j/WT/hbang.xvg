@@ -1,0 +1,47 @@
+# This file was created Mon Aug 23 17:25:24 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /work/u1397281/Project/COVID19_proj/MD_gromacs/210727_hACE2complex/WT/md_result/003_100ns
+# Command line:
+#   gmx hbond -f /work/u1397281/Project/COVID19_proj/MD_gromacs/210727_hACE2complex/WT/md_result/003_100ns/md_noPBC.xtc -s /work/u1397281/Project/COVID19_proj/MD_gromacs/210727_hACE2complex/WT/md_result/003_100ns/md.tpr -tu ns -n /work/u1397281/Project/COVID19_proj/MD_gromacs/210727_hACE2complex/WT/md_result/003_100ns/../../index/index_md.ndx -temp 310.15 -num -ac -dist -ang -hx
+# gmx hbond is part of G R O M A C S:
+#
+# Glycine aRginine prOline Methionine Alanine Cystine Serine
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00424874
+       1.5  0.0118129
+       2.5  0.0196395
+       3.5  0.0255022
+       4.5  0.0311704
+       5.5  0.0358275
+       6.5  0.0420985
+       7.5  0.0441208
+       8.5  0.0458222
+       9.5  0.0471639
+      10.5  0.0474653
+      11.5  0.0471931
+      12.5  0.0472514
+      13.5  0.0463959
+      14.5  0.0444805
+      15.5  0.0424291
+      16.5  0.0400665
+      17.5  0.0387345
+      18.5  0.0371984
+      19.5   0.034933
+      20.5  0.0328038
+      21.5  0.0310926
+      22.5   0.029712
+      23.5  0.0292064
+      24.5  0.0265036
+      25.5  0.0251327
+      26.5  0.0245299
+      27.5  0.0233535
+      28.5  0.0227118
+      29.5  0.0213993

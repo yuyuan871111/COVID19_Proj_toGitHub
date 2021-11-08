@@ -1,0 +1,47 @@
+# This file was created Sat Oct  2 05:07:10 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7a91/WT/analysis
+# Command line:
+#   gmx hbond -f md_noPBC.xtc -s md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
+# gmx hbond is part of G R O M A C S:
+#
+# Good gRace! Old Maple Actually Chews Slate
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5  0.0037977
+       1.5  0.0114632
+       2.5  0.0194159
+       3.5  0.0252666
+       4.5  0.0316218
+       5.5  0.0361062
+       6.5  0.0392592
+       7.5  0.0432531
+       8.5  0.0444233
+       9.5  0.0444723
+      10.5   0.045138
+      11.5  0.0446405
+      12.5  0.0435054
+      13.5  0.0425034
+      14.5  0.0419919
+      15.5  0.0408077
+      16.5  0.0386216
+      17.5  0.0381592
+      18.5  0.0362253
+      19.5  0.0357558
+      20.5  0.0339901
+      21.5    0.03289
+      22.5  0.0316779
+      23.5  0.0299332
+      24.5  0.0299332
+      25.5  0.0300803
+      26.5  0.0272916
+      27.5  0.0274387
+      28.5  0.0254278
+      29.5  0.0249093

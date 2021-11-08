@@ -1,0 +1,47 @@
+# This file was created Sat Oct  2 03:02:24 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7a91/beta/analysis
+# Command line:
+#   gmx hbond -f md_noPBC.xtc -s md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
+# gmx hbond is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00477728
+       1.5  0.0130129
+       2.5  0.0214019
+       3.5  0.0297295
+       4.5  0.0364852
+       5.5  0.0406567
+       6.5  0.0451349
+       7.5  0.0479798
+       8.5  0.0500809
+       9.5  0.0495671
+      10.5  0.0493984
+      11.5     0.0489
+      12.5  0.0458021
+      13.5  0.0456257
+      14.5   0.043655
+      15.5   0.040419
+      16.5  0.0386093
+      17.5  0.0365542
+      18.5  0.0343535
+      19.5  0.0318153
+      20.5  0.0306267
+      21.5  0.0282496
+      22.5  0.0275518
+      23.5  0.0258034
+      24.5  0.0248756
+      25.5   0.023434
+      26.5  0.0232499
+      27.5  0.0210645
+      28.5  0.0209035
+      29.5  0.0202823

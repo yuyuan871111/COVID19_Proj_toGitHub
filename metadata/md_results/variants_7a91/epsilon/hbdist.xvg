@@ -1,0 +1,87 @@
+# This file was created Mon Oct  4 13:05:29 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7a91/epsilon/analysis
+# Command line:
+#   gmx hbond -f md_noPBC.xtc -s md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
+# gmx hbond is part of G R O M A C S:
+#
+# GRowing Old MAkes el Chrono Sweat
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Donor - Acceptor Distance (nm)"
+@    yaxis  label ""
+@TYPE xy
+    0.0025          0
+    0.0075          0
+    0.0125          0
+    0.0175          0
+    0.0225          0
+    0.0275          0
+    0.0325          0
+    0.0375          0
+    0.0425          0
+    0.0475          0
+    0.0525          0
+    0.0575          0
+    0.0625          0
+    0.0675          0
+    0.0725          0
+    0.0775          0
+    0.0825          0
+    0.0875          0
+    0.0925          0
+    0.0975          0
+    0.1025          0
+    0.1075          0
+    0.1125          0
+    0.1175          0
+    0.1225          0
+    0.1275          0
+    0.1325          0
+    0.1375          0
+    0.1425          0
+    0.1475          0
+    0.1525          0
+    0.1575          0
+    0.1625          0
+    0.1675          0
+    0.1725          0
+    0.1775          0
+    0.1825          0
+    0.1875          0
+    0.1925          0
+    0.1975          0
+    0.2025          0
+    0.2075          0
+    0.2125          0
+    0.2175          0
+    0.2225          0
+    0.2275          0
+    0.2325          0
+    0.2375  0.0339767
+    0.2425   0.227383
+    0.2475    1.08595
+    0.2525    2.78609
+    0.2575    5.44804
+    0.2625    8.32691
+    0.2675    11.0895
+    0.2725    13.1411
+    0.2775    15.2974
+    0.2825    16.9021
+    0.2875    17.6418
+    0.2925    17.2759
+    0.2975    15.9625
+    0.3025    14.0023
+    0.3075    12.1088
+    0.3125    10.3799
+    0.3175    8.84963
+    0.3225    7.26187
+    0.3275    6.00342
+    0.3325    5.00634
+    0.3375     4.3072
+    0.3425    3.64858
+    0.3475    3.21341

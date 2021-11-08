@@ -1,0 +1,47 @@
+# This file was created Mon Aug 23 17:16:55 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/lambda/md_result/003_100ns
+# Command line:
+#   gmx hbond -f /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/lambda/md_result/003_100ns/md_noPBC.xtc -s /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/lambda/md_result/003_100ns/md.tpr -tu ns -n /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/lambda/md_result/003_100ns/../../index/index_md.ndx -temp 310.15 -num -ac -dist -ang -hx
+# gmx hbond is part of G R O M A C S:
+#
+# GROningen Mixture of Alchemy and Childrens' Stories
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5  0.0037986
+       1.5  0.0117104
+       2.5  0.0194964
+       3.5  0.0262442
+       4.5  0.0319067
+       5.5  0.0373883
+       6.5  0.0418554
+       7.5  0.0452293
+       8.5   0.046409
+       9.5  0.0475101
+      10.5  0.0489178
+      11.5  0.0467944
+      12.5  0.0466843
+      13.5  0.0462832
+      14.5  0.0442384
+      15.5  0.0427677
+      16.5  0.0401409
+      17.5  0.0391264
+      18.5  0.0367434
+      19.5  0.0345885
+      20.5  0.0332751
+      21.5  0.0308843
+      22.5  0.0288159
+      23.5  0.0282497
+      24.5  0.0267318
+      25.5  0.0254105
+      26.5  0.0235466
+      27.5  0.0220209
+      28.5  0.0215647
+      29.5   0.021667

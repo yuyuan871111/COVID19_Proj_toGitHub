@@ -1,0 +1,47 @@
+# This file was created Mon Aug 23 17:04:51 2021
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/epsilon/md/003_100ns
+# Command line:
+#   gmx hbond -f /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/epsilon/md/003_100ns/md_noPBC.xtc -s /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/epsilon/md/003_100ns/md.tpr -tu ns -n /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/epsilon/md/003_100ns/../../index/index_md.ndx -temp 310.15 -num -ac -dist -ang -hx
+# gmx hbond is part of G R O M A C S:
+#
+# Great Red Oystrich Makes All Chemists Sane
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00329537
+       1.5  0.0107572
+       2.5    0.01803
+       3.5  0.0248426
+       4.5  0.0304226
+       5.5  0.0353122
+       6.5  0.0389938
+       7.5  0.0433904
+       8.5  0.0438588
+       9.5   0.046242
+      10.5  0.0471213
+      11.5  0.0469651
+      12.5  0.0464803
+      13.5  0.0456667
+      14.5  0.0450175
+      15.5   0.042585
+      16.5  0.0418865
+      17.5  0.0398074
+      18.5  0.0379584
+      19.5  0.0364545
+      20.5  0.0347698
+      21.5  0.0329455
+      22.5  0.0304719
+      23.5   0.029683
+      24.5  0.0276449
+      25.5   0.026404
+      26.5  0.0254425
+      27.5  0.0237414
+      28.5  0.0226649
+      29.5  0.0211446
