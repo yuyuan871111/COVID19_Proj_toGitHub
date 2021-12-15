@@ -1,7 +1,7 @@
 ; Molecular simulation equilibration 
 ; Run parameters
 integrator              = md        ; leap-frog integrator
-nsteps                  = 1000000   ; 2 * 1000000 = 2000 ps (2 ns) (~6 hrs/16 cores)
+nsteps                  = 50000000   ; 2 * 50000000 = 100000000 fs = 100000 ps (100 ns) (~2.5days / 1GPU + 4 threads)
 dt                      = 0.002     ; 2 fs
 ; Output control
 nstxout                 = 0         ; suppress bulky .trr file by specifying 
