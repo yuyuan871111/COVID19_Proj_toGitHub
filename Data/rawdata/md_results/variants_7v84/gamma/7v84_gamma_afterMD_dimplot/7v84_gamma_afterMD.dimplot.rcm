@@ -1,0 +1,43 @@
+                 Res.  Res       Flattened    
+            Atom Name  Num      coordinates   
+            ---- --- -----    ----------------
+RESDUE      CofM VAL A 503       4.000-114.000
+RESDUE      CofM GLN B 325      -4.000-114.000
+RESDUE      CofM GLN A 506       4.000-108.000
+RESDUE      CofM THR A 500       3.000-102.000
+RESDUE      CofM LYS B 353      -4.000-102.000
+RESDUE      CofM GLY B 354      -3.000 -96.000
+RESDUE      CofM TYR A 501       4.000 -96.000
+RESDUE      CofM GLY A 502       3.000 -92.000
+RESDUE      CofM TYR B  41      -3.000 -92.000
+RESDUE      CofM ASP B 355      -3.000 -88.000
+RESDUE      CofM GLN A 498       3.000 -88.000
+RESDUE      CofM GLN A 493       4.000 -82.000
+RESDUE      CofM LYS B  31      -4.000 -82.000
+RESDUE      CofM LEU A 455       3.000 -78.000
+RESDUE      CofM GLU B  35      -3.000 -78.000
+RESDUE      CofM GLY A 496       4.000 -72.000
+RESDUE      CofM ASP B  38      -4.000 -72.000
+RESDUE      CofM ARG A 403       4.000 -66.000
+RESDUE      CofM HIS B  34      -4.000 -66.000
+RESDUE      CofM GLU B  37      -3.000 -60.000
+RESDUE      CofM SER A 494       4.000 -60.000
+RESDUE      CofM TYR A 453       4.000 -54.000
+RESDUE      CofM ASP B  30      -3.000 -48.000
+RESDUE      CofM TYR A 505       4.000 -48.000
+RESDUE      CofM MET B  82      -3.000 -44.000
+RESDUE      CofM PHE A 456       3.000 -44.000
+RESDUE      CofM PHE B  28      -3.000 -40.000
+RESDUE      CofM TYR B  83      -4.000 -34.000
+RESDUE      CofM SER A 477       3.000 -34.000
+RESDUE      CofM TYR A 489       4.000 -28.000
+RESDUE      CofM GLU B  23      -3.000 -28.000
+RESDUE      CofM THR B  27      -3.000 -24.000
+RESDUE      CofM GLN B  24      -4.000 -18.000
+RESDUE      CofM PHE A 486       4.000 -18.000
+RESDUE      CofM ASN A 487       3.000 -14.000
+RESDUE      CofM ALA A 475       3.000 -10.000
+RESDUE      CofM TYR A 473       3.000  -6.000
+RESDUE      CofM GLY A 476       3.000  -2.000
+RESDUE      CofM GLY A 485       3.000   2.000
+RESDUE      CofM LEU B  79      -3.000   2.000

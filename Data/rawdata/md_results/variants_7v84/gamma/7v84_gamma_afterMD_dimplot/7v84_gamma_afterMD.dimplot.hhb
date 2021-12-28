@@ -1,0 +1,15 @@
+ligplot.hhb output:
+
+   Donor                  Acceptor     Distance
+ARG A  403   NH1     ASP B   38   OD2    3.19   
+HIS B   34   ND1     TYR A  453   OH     2.92   
+GLN B   24   NE2     PHE A  486   O      3.18   
+TYR B   83   OH      PHE A  486   O      3.22   
+TYR A  489   OH      TYR B   83   OH     2.90   
+GLN A  493   NE2     LYS B   31   O      3.20   
+SER A  494   OG      ASP B   38   OD1    2.73   
+GLY A  496   N       ASP B   38   OD1    3.14   
+LYS B  353   N       TYR A  501   OH     3.26   
+VAL A  503   N       LYS B  353   O      2.89   
+TYR A  505   OH      ASP B   38   OD2    2.66   
+GLN B  325   NE2     GLN A  506   OE1    3.11   

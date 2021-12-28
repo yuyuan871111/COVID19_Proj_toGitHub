@@ -1,0 +1,855 @@
+['7mjn_alpha_beforeMD.pdb']
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+
+    Searching for HET groups in PDB file ...
+
+      Number of HET residues read in        =       0
+      Number of atom records stored         =       0
+      Number of CONECT details stored       =       0
+
+  Opening HET Group Dictionary ...
+
+    Scanning HET Group Dictionary ...
+
+      Number of dictionary entries read in  =       0
+  Opening output bonds file, ./hbadd.bonds ...
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 27 16:05:37 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Neighbour interactions, max atom-atom separation 3.9
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.nnb".
+Checking for hydrogen bonds . . . 
+20258 neighbour interactions found.
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 27 16:05:37 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Minimum Angles; DHA 90.00, HAAA 90.00, DAAA 90.00
+Maximum Distances; D-A 3.3, H-A 2.7, S-S 3.0
+Maximum angles at aromatic acceptors DAAX 20.00, HAAAX 20.00
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.hhb".
+Checking for hydrogen bonds . . . 
+670 hydrogen bonds found.
+
+
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+  Reading through PDB file ...
+
+Reading in hydrogen bonds from file 7mjn_alpha_beforeMD.hhb ....
+.... and non-bonded contacts from file 7mjn_alpha_beforeMD.nnb
+
+Number of residues written out:     37,  Atoms:    450
+Loop:    1. Current score 1945
+Loop:    2. Current score 2086
+Loop:    3. Current score 1619
+Loop:    4. Current score 1505
+Loop:    5. Current score 1451
+Loop:    6. Current score 1083
+Loop:    7. Current score 962
+Loop:    8. Current score 1008
+Loop:    9. Current score 1013
+Loop:   10. Current score 771
+Alignment score at start = 1904 and at end = 771
+['7mjn_alpha_beforeMD.pdb']
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+
+    Searching for HET groups in PDB file ...
+
+      Number of HET residues read in        =       0
+      Number of atom records stored         =       0
+      Number of CONECT details stored       =       0
+
+  Opening HET Group Dictionary ...
+
+    Scanning HET Group Dictionary ...
+
+      Number of dictionary entries read in  =       0
+  Opening output bonds file, ./hbadd.bonds ...
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 29 21:03:45 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Neighbour interactions, max atom-atom separation 3.9
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.nnb".
+Checking for hydrogen bonds . . . 
+20258 neighbour interactions found.
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 29 21:03:46 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Minimum Angles; DHA 90.00, HAAA 90.00, DAAA 90.00
+Maximum Distances; D-A 3.3, H-A 2.7, S-S 3.0
+Maximum angles at aromatic acceptors DAAX 20.00, HAAAX 20.00
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.hhb".
+Checking for hydrogen bonds . . . 
+670 hydrogen bonds found.
+
+
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+  Reading through PDB file ...
+
+Reading in hydrogen bonds from file 7mjn_alpha_beforeMD.hhb ....
+.... and non-bonded contacts from file 7mjn_alpha_beforeMD.nnb
+
+Number of residues written out:     37,  Atoms:    450
+Loop:    1. Current score 1945
+Loop:    2. Current score 2086
+Loop:    3. Current score 1619
+Loop:    4. Current score 1505
+Loop:    5. Current score 1451
+Loop:    6. Current score 1083
+Loop:    7. Current score 962
+Loop:    8. Current score 1008
+Loop:    9. Current score 1013
+Loop:   10. Current score 771
+Alignment score at start = 1904 and at end = 771
+['7mjn_alpha_beforeMD.pdb']
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+
+    Searching for HET groups in PDB file ...
+
+      Number of HET residues read in        =       0
+      Number of atom records stored         =       0
+      Number of CONECT details stored       =       0
+
+  Opening HET Group Dictionary ...
+
+    Scanning HET Group Dictionary ...
+
+      Number of dictionary entries read in  =       0
+  Opening output bonds file, ./hbadd.bonds ...
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 30 17:23:12 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Neighbour interactions, max atom-atom separation 3.9
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.nnb".
+Checking for hydrogen bonds . . . 
+20258 neighbour interactions found.
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 30 17:23:12 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Minimum Angles; DHA 90.00, HAAA 90.00, DAAA 90.00
+Maximum Distances; D-A 3.3, H-A 2.7, S-S 3.0
+Maximum angles at aromatic acceptors DAAX 20.00, HAAAX 20.00
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.hhb".
+Checking for hydrogen bonds . . . 
+670 hydrogen bonds found.
+
+
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+  Reading through PDB file ...
+
+Reading in hydrogen bonds from file 7mjn_alpha_beforeMD.hhb ....
+.... and non-bonded contacts from file 7mjn_alpha_beforeMD.nnb
+
+Number of residues written out:     37,  Atoms:    450
+Loop:    1. Current score 2187
+Loop:    2. Current score 1982
+Loop:    3. Current score 2346
+Loop:    4. Current score 1619
+Loop:    5. Current score 1256
+Loop:    6. Current score 1002
+Loop:    7. Current score 926
+Loop:    8. Current score 1418
+Loop:    9. Current score 1109
+Loop:   10. Current score 1202
+Alignment score at start = 1904 and at end = 1202
+['7mjn_alpha_beforeMD.pdb']
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+
+    Searching for HET groups in PDB file ...
+
+      Number of HET residues read in        =       0
+      Number of atom records stored         =       0
+      Number of CONECT details stored       =       0
+
+  Opening HET Group Dictionary ...
+
+    Scanning HET Group Dictionary ...
+
+      Number of dictionary entries read in  =       0
+  Opening output bonds file, ./hbadd.bonds ...
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 30 18:56:00 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Neighbour interactions, max atom-atom separation 3.9
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.nnb".
+Checking for hydrogen bonds . . . 
+20258 neighbour interactions found.
+HBPLUS Hydrogen Bond Calculator v 3.2            Nov 30 18:56:00 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Minimum Angles; DHA 90.00, HAAA 90.00, DAAA 90.00
+Maximum Distances; D-A 3.3, H-A 2.7, S-S 3.0
+Maximum angles at aromatic acceptors DAAX 20.00, HAAAX 20.00
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.hhb".
+Checking for hydrogen bonds . . . 
+670 hydrogen bonds found.
+
+
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+  Reading through PDB file ...
+
+Reading in hydrogen bonds from file 7mjn_alpha_beforeMD.hhb ....
+.... and non-bonded contacts from file 7mjn_alpha_beforeMD.nnb
+
+Number of residues written out:     37,  Atoms:    450
+Loop:    1. Current score 1945
+Loop:    2. Current score 2086
+Loop:    3. Current score 1619
+Loop:    4. Current score 1505
+Loop:    5. Current score 1451
+Loop:    6. Current score 1083
+Loop:    7. Current score 962
+Loop:    8. Current score 1008
+Loop:    9. Current score 1013
+Loop:   10. Current score 771
+Alignment score at start = 1904 and at end = 771
+['7mjn_alpha_beforeMD.pdb']
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+
+    Searching for HET groups in PDB file ...
+
+      Number of HET residues read in        =       0
+      Number of atom records stored         =       0
+      Number of CONECT details stored       =       0
+
+  Opening HET Group Dictionary ...
+
+    Scanning HET Group Dictionary ...
+
+      Number of dictionary entries read in  =       0
+  Opening output bonds file, ./hbadd.bonds ...
+HBPLUS Hydrogen Bond Calculator v 3.2            Dec 03 11:02:29 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Neighbour interactions, max atom-atom separation 3.9
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.nnb".
+Checking for hydrogen bonds . . . 
+20258 neighbour interactions found.
+HBPLUS Hydrogen Bond Calculator v 3.2            Dec 03 11:02:29 CST 2021
+(c) I McDonald, D Naylor, D Jones and J Thornton 1993 All Rights Reserved.
+
+Configured for 100000 atoms and 24000 residues.
+
+Criteria
+
+Minimum Angles; DHA 90.00, HAAA 90.00, DAAA 90.00
+Maximum Distances; D-A 3.3, H-A 2.7, S-S 3.0
+Maximum angles at aromatic acceptors DAAX 20.00, HAAAX 20.00
+Minimum covalent separation 3 Covalent bonds
+
+
+Processing file "7mjn_alpha_beforeMD.pdb" . . .
+Opening "7mjn_alpha_beforeMD.pdb" for protein co-ordinates. . .
+
+	Hydrogens Recognized in Brookhaven File
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue SER 
+WARNING: Unrecognized atom name  O2  from residue SER 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  CD  from residue ILE 
+WARNING: Unrecognized atom name  O1  from residue ALA 
+WARNING: Unrecognized atom name  O2  from residue ALA 
+6451 atoms selected from 796 residues.
+
+Found 1 elements of secondary structure and 2 chains.
+0 CONRECS used.
+Checking for disulphide bridges . . . 
+Disulphide bond between /A0336hCYS SG  and /A0361hCYS SG .
+Disulphide bond between /A0379hCYS SG  and /A0432hCYS SG .
+Disulphide bond between /A0391hCYS SG  and /A0525hCYS SG .
+Disulphide bond between /A0480hCYS SG  and /A0488hCYS SG .
+Disulphide bond between /B0133hCYS SG  and /B0141hCYS SG .
+Disulphide bond between /B0530hCYS SG  and /B0542hCYS SG .
+6 disulphide bonds found.
+
+
+Adding Polar Hydrogens.
+Opened output file "./7mjn_alpha_beforeMD.hhb".
+Checking for hydrogen bonds . . . 
+670 hydrogen bonds found.
+
+
+  Opening PDB file [7mjn_alpha_beforeMD.pdb] ...
+  Reading through PDB file ...
+
+Reading in hydrogen bonds from file 7mjn_alpha_beforeMD.hhb ....
+.... and non-bonded contacts from file 7mjn_alpha_beforeMD.nnb
+
+Number of residues written out:     37,  Atoms:    450
+Loop:    1. Current score 2187
+Loop:    2. Current score 1982
+Loop:    3. Current score 2346
+Loop:    4. Current score 1619
+Loop:    5. Current score 1256
+Loop:    6. Current score 1002
+Loop:    7. Current score 926
+Loop:    8. Current score 1418
+Loop:    9. Current score 1109
+Loop:   10. Current score 1202
+Alignment score at start = 1904 and at end = 1202

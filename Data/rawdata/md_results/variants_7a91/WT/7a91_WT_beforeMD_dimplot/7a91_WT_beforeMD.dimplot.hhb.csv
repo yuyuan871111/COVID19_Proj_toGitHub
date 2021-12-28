@@ -1,0 +1,4 @@
+donor_chain,donor_aapos,donor_aa,donor_pos,donor_atom,receptor_chain,receptor_aapos,receptor_aa,receptor_pos,receptor_atom,distance
+S1RBD,GLN493,GLN,493,NE2,hACE2,HIS34,HIS,34,NE2,3.05
+S1RBD,THR500,THR,500,OG1,hACE2,TYR41,TYR,41,OH,2.79
+hACE2,ASP30,ASP,30,OD1,S1RBD,LYS417,LYS,417,NZ,3.49

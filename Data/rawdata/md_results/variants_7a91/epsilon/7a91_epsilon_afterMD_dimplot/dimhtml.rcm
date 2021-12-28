@@ -1,0 +1,52 @@
+                 Res.  Res       Flattened    
+            Atom Name  Num      coordinates   
+            ---- --- -----    ----------------
+RESDUE      CofM GLY B 502      -3.000-143.000
+RESDUE      CofM MET A 383       3.000-143.000
+RESDUE      CofM ARG A 393       3.000-139.000
+RESDUE      CofM PHE A 327       3.000-135.000
+RESDUE      CofM GLY A 354       4.000-129.000
+RESDUE      CofM ALA A 387       3.000-123.000
+RESDUE      CofM VAL B 503      -4.000-123.000
+RESDUE      CofM GLY B 504      -3.000-117.000
+RESDUE      CofM GLU A  37       4.000-117.000
+RESDUE      CofM TYR B 505      -4.000-111.000
+RESDUE      CofM GLY B 496      -4.000-105.000
+RESDUE      CofM ALA A 386       3.000-105.000
+RESDUE      CofM LYS A 353       4.000 -99.000
+RESDUE      CofM TYR B 495      -4.000 -99.000
+RESDUE      CofM GLY A 352       3.000 -95.000
+RESDUE      CofM VAL B 445      -3.000 -95.000
+RESDUE      CofM PHE B 490      -3.000 -91.000
+RESDUE      CofM ASN B 501      -4.000 -85.000
+RESDUE      CofM ASN B 448      -4.000 -79.000
+RESDUE      CofM ASP A 355       4.000 -73.000
+RESDUE      CofM GLN B 498      -4.000 -73.000
+RESDUE      CofM GLY B 447      -4.000 -67.000
+RESDUE      CofM ASP A  38       4.000 -67.000
+RESDUE      CofM TYR A  41       3.000 -63.000
+RESDUE      CofM GLU B 484      -3.000 -63.000
+RESDUE      CofM TYR B 453      -3.000 -59.000
+RESDUE      CofM ARG B 403      -4.000 -53.000
+RESDUE      CofM HIS A  34       4.000 -53.000
+RESDUE      CofM ILE B 418      -3.000 -49.000
+RESDUE      CofM GLY B 446      -3.000 -45.000
+RESDUE      CofM LEU B 455      -3.000 -41.000
+RESDUE      CofM LYS A  31       3.000 -41.000
+RESDUE      CofM GLN B 493      -3.000 -37.000
+RESDUE      CofM GLN A  42       3.000 -37.000
+RESDUE      CofM ASP A  30       3.000 -33.000
+RESDUE      CofM THR A  27       3.000 -27.000
+RESDUE      CofM SER B 494      -4.000 -27.000
+RESDUE      CofM GLU A  35       4.000 -21.000
+RESDUE      CofM PHE A  28       3.000 -17.000
+RESDUE      CofM PHE B 456      -3.000 -17.000
+RESDUE      CofM TYR B 489      -4.000 -11.000
+RESDUE      CofM ALA B 475      -3.000  -7.000
+RESDUE      CofM PHE B 486      -3.000  -1.000
+RESDUE      CofM TYR A  83       4.000  -1.000
+RESDUE      CofM ASN B 487      -4.000   5.000
+RESDUE      CofM GLY B 476      -3.000   9.000
+RESDUE      CofM LEU A  79       3.000   9.000
+RESDUE      CofM MET A  82       3.000  13.000
+RESDUE      CofM GLN A  24       3.000  17.000

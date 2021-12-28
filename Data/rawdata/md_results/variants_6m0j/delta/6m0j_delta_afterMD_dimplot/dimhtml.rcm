@@ -1,0 +1,43 @@
+                 Res.  Res       Flattened    
+            Atom Name  Num      coordinates   
+            ---- --- -----    ----------------
+RESDUE      CofM TYR B 449      -4.000-114.000
+RESDUE      CofM GLN A  42       3.000-114.000
+RESDUE      CofM GLN B 498      -3.000-108.000
+RESDUE      CofM ASP A  38       4.000-108.000
+RESDUE      CofM TYR B 505      -4.000-102.000
+RESDUE      CofM ARG B 403      -3.000 -98.000
+RESDUE      CofM GLY B 482      -3.000 -94.000
+RESDUE      CofM ASN B 501      -3.000 -90.000
+RESDUE      CofM TYR A  41       3.000 -90.000
+RESDUE      CofM LEU B 492      -3.000 -86.000
+RESDUE      CofM ARG A 192       3.000 -86.000
+RESDUE      CofM PRO B 499      -3.000 -80.000
+RESDUE      CofM ASN A  58       4.000 -80.000
+RESDUE      CofM THR B 500      -4.000 -74.000
+RESDUE      CofM LYS A  31       4.000 -74.000
+RESDUE      CofM LEU A  45       3.000 -68.000
+RESDUE      CofM GLU B 484      -4.000 -68.000
+RESDUE      CofM HIS A  34       3.000 -64.000
+RESDUE      CofM LEU A  79       3.000 -60.000
+RESDUE      CofM LEU B 455      -3.000 -60.000
+RESDUE      CofM PHE A  28       3.000 -56.000
+RESDUE      CofM VAL B 445      -3.000 -56.000
+RESDUE      CofM SER B 494      -4.000 -50.000
+RESDUE      CofM GLU A  35       4.000 -50.000
+RESDUE      CofM THR A  27       3.000 -46.000
+RESDUE      CofM GLN B 493      -3.000 -46.000
+RESDUE      CofM TYR A  83       4.000 -40.000
+RESDUE      CofM ASN B 481      -3.000 -40.000
+RESDUE      CofM TYR B 489      -4.000 -34.000
+RESDUE      CofM GLY B 485      -4.000 -28.000
+RESDUE      CofM GLU A  57       3.000 -28.000
+RESDUE      CofM MET A  82       3.000 -24.000
+RESDUE      CofM PHE B 486      -3.000 -24.000
+RESDUE      CofM LYS B 478      -4.000 -18.000
+RESDUE      CofM PRO A  84       3.000 -18.000
+RESDUE      CofM GLN A  24       4.000 -12.000
+RESDUE      CofM ASN B 487      -3.000 -12.000
+RESDUE      CofM GLY B 447      -3.000  -8.000
+RESDUE      CofM ASN A  61       3.000  -8.000
+RESDUE      CofM ALA B 475      -3.000  -4.000
