@@ -77,10 +77,28 @@ Root path: `./StructuralAnalysisTools`
 Figures were generated from analysis including graphical abstract, structrual view, MD results over time, fitting curves, ...  
 Root path: `./Visualization/`  
 ### illustration
-* `./illu/COVID_variants_v*.png`: mutations information in different PDBs (* is the version number).  
-* `./illu/MyCOVID_Project_Workflow_v*.png`: graphical abstract of my analysis (* is the version number).  
+* `illu/COVID_variants_v*.png`: mutations information in different PDBs (* is the version number).  
+* `illu/MyCOVID_Project_Workflow_v*.png`: graphical abstract of my analysis (* is the version number).  
 ### other plots
-
+* `DimChordplot`: chord plot before and after MD in different PDB models/in different variants.  
+* `MD`: molecular dyanmics results.  
+  AngleDistribution.png / CorrBetweHBandContac.png / DistDistribution_focus.png / DistDistribution_raw.png / Equilibrium_6m0j.png / Equilibrium_7a91.png / Equilibrium_groundtrue.png / HBautocorr.png / HBnum.png / HBnum35.png / RMSD.png / RMSD_mutual.png / RMSF.png / RadiusOfGyration.png / RadiusOfGyration_mutual.png  
+* `MDfeatures_clustering`: attempt to cluster into variants with MD features by different methods.  
+* `Omicron`: omicron results including MD results/Clustering map/structural view.  
+* `PublishData`: data for publication.  
+  `Corre_clustering.png`: correlation of MD features and variants clustering map ***without*** data selecting mutual residues in RMSD/Rg analysis.  
+  `Corre_clustering_wMutual_*.png`: correlation of MD features and variants clustering map ***with*** data selecting mutual residues in RMSD/Rg analysis (* is the version number).  
+  `DistDistribution_all.png`: distribution of distances of hydrogen bonds (overall/focus on certain range) without omicron result.  
+  `HBnum_all.png`: the number of hydrogen bonds over time (6m0j/7a91/ground truth) without omicron result.  
+  `RMSD_Rg_HBac.png`: results of RMSD/Rg/autocorrelation of hydrogen bonds ***without*** data selecting mutual residues in RMSD/Rg analysis.  
+  `RMSD_Rg_HBac_mutual.png`: results of RMSD/Rg/autocorrelation of hydrogen bonds ***with*** data selecting mutual residues in RMSD/Rg analysis.  
+  `Reuters_graphics_20211123_anno.png`: public heatlh plots from Reuters with manual annotation of variant shifts.  
+  `VariantVaccPlot_freq_****_anno.png`: variant frequency plots (with public health data from CoVariants and Our World in Data) with manual annotation of variant shifts (**** is the date of plotting).  
+  `VariantVaccPlot_freq_1228_anno_filterBias.png`: variant frequency plots (with public health data from CoVariants and Our World in Data) with manual annotation of variant shifts (**** is the date of plotting); filtering the bias in Israel case.  
+  `delta_structural_chord_v*.png: structural view and chord plot for the results of the delta variant (* is the version number).  
+* `Reuters`: raw public heatlh plots from Reuters.  
+* `StructuralView`: raw data of strucutral views of the results of the delta variant.  
+* `VariantFrequency`: raw variant frequency plots with public health data from CoVariants and Our World in Data.  
 
 
 
