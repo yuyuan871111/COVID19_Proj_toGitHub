@@ -1,4 +1,4 @@
-# COVID Proj: From Delta to Omicron, Evaluating the Interactions of Multiple Spike Proteins RBD and hACE2 through Systematic Competitive Analyses and Molecular Dynamics
+# COVID-19 Project  
 
 ## Analysis  
 All analysis are in Jupyter notebook files.  
@@ -103,3 +103,36 @@ Root path: `./Visualization/`
 
 
 
+## Variants in this study
+| WHO label |  PANGO lineage |
+| -------- | -------- | 
+| Alpha | B.1.1.7 |
+| Beta | B.1.351 |
+| Gamma | P.1 |
+| Delta | B.1.617.2 | 
+| Delta Plus | AY.1 |
+| Omicron | BA.1 |
+| Omicron | BA.2 |
+| Omicron | BA.4&5 |
+| Omicron | BA.2.12.1 |
+| Epsilon | B.1.427/9 |
+| Lambda | C.37 |
+| Mu | B.1.621 |
+
+### Mutation list in region of interst (S1RBD: )
+![Mutation list](https://i.imgur.com/jaCDbOZ.png)
+
+
+## Resources
+* [WIKI: variants of SARS-COVID-2](https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2)
+* Websites
+    * [Nextstrain](https://nextstrain.org/groups/neherlab/ncov)
+    * [CoVariants](https://covariants.org/)
+* Database
+    * [Covid variant visualization (COVDB)](https://covdb.stanford.edu/)
+    * [SCoV2-MD](https://submission.gpcrmd.org/covid19/home/)
+    * [VarEPS](https://nmdc.cn/ncovn/)
+    * [COVID19db](http://www.biomedical-web.com/covid19db/home)
+    * [Ensembl for Covid-19](https://covid-19.ensembl.org/index.html)
+    * [SCovid](http://bio-annotation.cn/scovid/#/)
+    * [T-CoV](https://t-cov.hse.ru/)
