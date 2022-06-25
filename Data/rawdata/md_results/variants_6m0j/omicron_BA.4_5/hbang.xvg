@@ -1,0 +1,47 @@
+# This file was created Sat Jun 25 04:45:02 2022
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/omicron_BA.4_5/analysis
+# Command line:
+#   gmx hbond -f md_noPBC.xtc -s ../md/md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
+# gmx hbond is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00342892
+       1.5  0.0114589
+       2.5  0.0179527
+       3.5  0.0240024
+       4.5   0.029761
+       5.5  0.0342528
+       6.5  0.0383952
+       7.5  0.0415329
+       8.5  0.0425084
+       9.5  0.0433456
+      10.5  0.0442047
+      11.5  0.0439572
+      12.5  0.0450856
+      13.5    0.04494
+      14.5   0.042159
+      15.5  0.0418459
+      16.5   0.039742
+      17.5   0.038235
+      18.5  0.0386791
+      19.5  0.0365242
+      20.5   0.035141
+      21.5  0.0339907
+      22.5  0.0326512
+      23.5  0.0309622
+      24.5  0.0303361
+      25.5  0.0282249
+      26.5  0.0284943
+      27.5   0.026849
+      28.5  0.0267252
+      29.5   0.024614

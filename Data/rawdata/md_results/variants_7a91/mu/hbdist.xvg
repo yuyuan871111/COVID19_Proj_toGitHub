@@ -1,15 +1,15 @@
-# This file was created Sun Nov  7 00:46:11 2021
+# This file was created Sat Jun 25 05:38:19 2022
 # Created by:
 #                      :-) GROMACS - gmx hbond, 2018.6 (-:
 # 
 # Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
 # Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
-# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7a91/mu/analysis
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7a91/mu_correct/analysis
 # Command line:
 #   gmx hbond -f md_noPBC.xtc -s ../md/md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
 # gmx hbond is part of G R O M A C S:
 #
-# Gyas ROwers Mature At Cryogenic Speed
+# Great Red Oystrich Makes All Chemists Sane
 #
 @    title "Hydrogen Bond Distribution"
 @    xaxis  label "Donor - Acceptor Distance (nm)"
@@ -61,27 +61,27 @@
     0.2175          0
     0.2225          0
     0.2275          0
-    0.2325 0.00346819
-    0.2375  0.0329478
-    0.2425   0.293062
-    0.2475    1.46878
-    0.2525    3.79073
-    0.2575    7.26585
-    0.2625    10.9595
-    0.2675    13.0057
-    0.2725    14.8196
-    0.2775    16.4167
-    0.2825    16.8034
-    0.2875    17.0375
-    0.2925    15.6519
-    0.2975    14.5109
-    0.3025    12.8323
-    0.3075     11.067
-    0.3125    9.33636
-    0.3175    7.68204
-    0.3225    6.42308
-    0.3275    5.58031
-    0.3325    4.62656
-    0.3375     3.9572
-    0.3425     3.3416
-    0.3475    3.09362
+    0.2325          0
+    0.2375  0.0533496
+    0.2425   0.405838
+    0.2475    1.85009
+    0.2525    4.44135
+    0.2575    8.12819
+    0.2625    11.6721
+    0.2675    14.2291
+    0.2725    15.7096
+    0.2775    17.1347
+    0.2825    17.4225
+    0.2875    16.9309
+    0.2925    16.0106
+    0.2975    14.2081
+    0.3025    12.3409
+    0.3075    10.2641
+    0.3125    8.46163
+    0.3175     7.1317
+    0.3225    5.74461
+    0.3275     4.8491
+    0.3325    3.98217
+    0.3375    3.39151
+    0.3425    2.95138
+    0.3475    2.68653

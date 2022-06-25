@@ -1,15 +1,15 @@
-# This file was created Sun Nov  7 00:55:35 2021
+# This file was created Sat Jun 25 06:25:26 2022
 # Created by:
 #                      :-) GROMACS - gmx hbond, 2018.6 (-:
 # 
 # Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
 # Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
-# Working dir:  /work/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/mu/analysis
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_complex/mu_correct/analysis
 # Command line:
 #   gmx hbond -f md_noPBC.xtc -s ../md/md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
 # gmx hbond is part of G R O M A C S:
 #
-# GRowing Old MAkes el Chrono Sweat
+# S  C  A  M  O  R  G
 #
 @    title "Hydrogen Bond Distribution"
 @    xaxis  label "Donor - Acceptor Distance (nm)"
@@ -61,27 +61,27 @@
     0.2175          0
     0.2225          0
     0.2275          0
-    0.2325 0.00150617
-    0.2375  0.0331358
-    0.2425    0.31479
-    0.2475    1.28025
-    0.2525    3.44763
-    0.2575    6.36357
-    0.2625    9.53858
-    0.2675    12.2497
-    0.2725    14.2318
-    0.2775     16.104
-    0.2825    16.7908
-    0.2875    17.0634
-    0.2925     16.473
-    0.2975    15.0527
-    0.3025    13.4004
-    0.3075    11.3354
-    0.3125    9.79765
-    0.3175    8.17249
-    0.3225    6.72355
-    0.3275    5.90871
-    0.3325     4.8815
-    0.3375    4.15703
-    0.3425    3.46721
-    0.3475    3.21116
+    0.2325  0.0073692
+    0.2375  0.0534267
+    0.2425   0.362933
+    0.2475    1.53095
+    0.2525    4.03648
+    0.2575    7.97163
+    0.2625    11.9326
+    0.2675    14.4344
+    0.2725    15.9893
+    0.2775    16.7815
+    0.2825    16.7705
+    0.2875    16.2307
+    0.2925    15.2248
+    0.2975    13.7638
+    0.3025    12.1131
+    0.3075    10.2358
+    0.3125    9.09727
+    0.3175    7.55895
+    0.3225    6.40383
+    0.3275    5.30582
+    0.3325    4.55969
+    0.3375     3.6238
+    0.3425    3.25534
+    0.3475    2.75608
