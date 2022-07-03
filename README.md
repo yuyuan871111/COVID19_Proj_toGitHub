@@ -1,5 +1,8 @@
 # COVID-19 Project  
 
+[![hackmd-github-sync-badge](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg/badge)](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg)
+
+
 ## Analysis  
 All analysis are in Jupyter notebook files.  
 Root path: `./Analysis/`  
@@ -100,27 +103,30 @@ Root path: `./Visualization/`
 * `StructuralView`: raw data of strucutral views of the results of the delta variant.  
 * `VariantFrequency`: raw variant frequency plots with public health data from CoVariants and Our World in Data.  
 
-
-
-
 ## Variants in this study
-| WHO label |  PANGO lineage |
-| -------- | -------- | 
-| Alpha | B.1.1.7 |
-| Beta | B.1.351 |
-| Gamma | P.1 |
-| Delta | B.1.617.2 | 
-| Delta Plus | AY.1 |
-| Omicron | BA.1 |
-| Omicron | BA.2 |
-| Omicron | BA.4&5 |
-| Omicron | BA.2.12.1 |
-| Epsilon | B.1.427/9 |
-| Lambda | C.37 |
-| Mu | B.1.621 |
+| WHO label |  PANGO lineage | PDB |
+| -------- | -------- | ----- |
+| Wild type | - | 6m0j, 7a91 |
+| Omicron | BA.1 | 6m0j+schrodinger, 7a91+schrodinger |
+| Omicron | BA.2 | 6m0j+schrodinger, 7a91+schrodinger |
+| Omicron | BA.2.12.1 | 6m0j+schrodinger, 7a91+schrodinger |
+| Omicron | BA.4&5 | 6m0j+schrodinger, 7a91+schrodinger |
+| Alpha | B.1.1.7 | 6m0j+schrodinger, 7a91+schrodinger, 7mjn |
+| Beta | B.1.351 | 6m0j+schrodinger, 7a91+schrodinger, 7v80 |
+| Gamma | P.1 | 6m0j+schrodinger, 7a91+schrodinger, 7v84 |
+| Delta | B.1.617.2 | 6m0j+schrodinger, 7a91+schrodinger, 7v8b |
+| Delta Plus | AY.1 | 6m0j+schrodinger, 7a91+schrodinger |
+| Epsilon | B.1.427/9 | 6m0j+schrodinger, 7a91+schrodinger |
+| Lambda | C.37 | 6m0j+schrodinger, 7a91+schrodinger |
+| Mu | B.1.621 | 6m0j+schrodinger, 7a91+schrodinger |
+| Mu -R346K | - | 6m0j+schrodinger, 7a91+schrodinger |
+* 6m0j: `S1RBD:333-526; hACE2:19-615`   
+* 7a91: `S1RBD:323-555; hACE2:19-133,141-613`  
+* 7mjn, 7v80, 7v84, 7v8b: `S1RBD:331-530; hACE2:19-614`  
 
-### Mutation list in region of interst (S1RBD: )
-![Mutation list](https://i.imgur.com/jaCDbOZ.png)
+
+### Mutation list in region of interst (S1RBD: 323-555)
+![Mutation list](https://i.imgur.com/ZvhCXmD.png)
 
 
 ## Resources
@@ -128,6 +134,7 @@ Root path: `./Visualization/`
 * Websites
     * [Nextstrain](https://nextstrain.org/groups/neherlab/ncov)
     * [CoVariants](https://covariants.org/)
+    * [Reuters COVID tracker](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/)
 * Database
     * [Covid variant visualization (COVDB)](https://covdb.stanford.edu/)
     * [SCoV2-MD](https://submission.gpcrmd.org/covid19/home/)
@@ -136,3 +143,4 @@ Root path: `./Visualization/`
     * [Ensembl for Covid-19](https://covid-19.ensembl.org/index.html)
     * [SCovid](http://bio-annotation.cn/scovid/#/)
     * [T-CoV](https://t-cov.hse.ru/)
+* Articles related to this study [[link](./Related_references.md)]
