@@ -1,0 +1,13 @@
+ligplot.hhb output:
+
+   Donor                  Acceptor     Distance
+TYR B  489   OH      GLN A   24   OE1    3.10   
+THR A   27   OG1     GLY B  485   O      2.77   
+LYS A   31   NZ      VAL B  483   O      3.09   
+HIS A   34   ND1     LEU B  455   O      2.82   
+GLN A  325   N       GLY B  502   O      3.01   
+TYR B  501   N       GLN A  325   OE1    3.01   
+TYR B  501   OH      LEU A  351   O      3.14   
+GLY B  502   N       ASP A  355   OD1    2.85   
+ARG B  493   NE      GLU A   35   OE2    2.98  +/-
+LYS B  458   NZ      GLU A   23   OE2    3.93  +/-

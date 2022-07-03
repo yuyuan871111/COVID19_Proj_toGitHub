@@ -1,0 +1,43 @@
+                 Res.  Res       Flattened    
+            Atom Name  Num      coordinates   
+            ---- --- -----    ----------------
+RESDUE      CofM TYR A  41      -4.000-114.000
+RESDUE      CofM TYR B 505       4.000-108.000
+RESDUE      CofM ASP A  38      -4.000-108.000
+RESDUE      CofM THR B 500       4.000-102.000
+RESDUE      CofM TYR B 495       3.000 -98.000
+RESDUE      CofM LYS A  31      -3.000 -98.000
+RESDUE      CofM ARG B 403       3.000 -94.000
+RESDUE      CofM GLU A  35      -4.000 -88.000
+RESDUE      CofM SER B 494       4.000 -88.000
+RESDUE      CofM PHE B 490       3.000 -84.000
+RESDUE      CofM ASP A 355      -3.000 -84.000
+RESDUE      CofM GLN B 493       3.000 -80.000
+RESDUE      CofM SER A  19      -3.000 -80.000
+RESDUE      CofM TYR B 501       3.000 -76.000
+RESDUE      CofM GLN A 325      -3.000 -76.000
+RESDUE      CofM GLY B 446       3.000 -72.000
+RESDUE      CofM LYS A  68      -3.000 -68.000
+RESDUE      CofM LYS B 484       3.000 -68.000
+RESDUE      CofM ASN B 487       4.000 -62.000
+RESDUE      CofM MET A  82      -3.000 -62.000
+RESDUE      CofM THR A  20      -4.000 -56.000
+RESDUE      CofM THR B 478       3.000 -56.000
+RESDUE      CofM PHE B 486       3.000 -52.000
+RESDUE      CofM GLN B 498       3.000 -48.000
+RESDUE      CofM LEU A  79      -3.000 -48.000
+RESDUE      CofM ASN A  64      -4.000 -42.000
+RESDUE      CofM GLY B 485       4.000 -42.000
+RESDUE      CofM TYR A  83      -4.000 -36.000
+RESDUE      CofM TYR B 489       4.000 -36.000
+RESDUE      CofM PHE A  28      -3.000 -30.000
+RESDUE      CofM VAL B 445       4.000 -30.000
+RESDUE      CofM GLY B 496       3.000 -26.000
+RESDUE      CofM THR A  27      -3.000 -26.000
+RESDUE      CofM ASN A  61      -3.000 -22.000
+RESDUE      CofM LEU B 455       3.000 -18.000
+RESDUE      CofM GLN A  24      -3.000 -18.000
+RESDUE      CofM GLN A  42      -3.000 -14.000
+RESDUE      CofM HIS A  34      -4.000  -8.000
+RESDUE      CofM LYS B 417       3.000  -8.000
+RESDUE      CofM TYR B 453       4.000  -2.000
