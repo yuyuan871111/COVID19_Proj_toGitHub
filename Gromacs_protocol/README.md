@@ -65,6 +65,8 @@ Recording:
   -26 (WT), -26 (alpha), -25 (beta), -25 (delta+), -24 (delta), -25 (gamma), -25 (epsilon), -26 (lambda), -24 (mu), -23 (omicron, BA.1, BA.2, BA.2.12.1, BA.4/5)
 * 7a91 (3527.20 nm^3, 142 mM Na+ = 302 Na+/box)  
   -20 (WT), -20 (alpha), -19 (beta), -19 (delta+), -18 (delta), -19 (gamma), -19 (epsilon), -20 (lambda), -18 (mu), -16 (omicron, BA.1, different from 6m0j: T547K), -17 (omicron, BA.2, BA.2.12.1, BA.4/5)
+* 7wbl (2402.10 nm^3, 142 mM na+ = 205 Na+/box) -22 (omicron, BA.1)  
+* 7wbl (2368.64 nm^3, 142 mM na+ = 202 Na+/box) -22 (omicron, BA.1)  
 * 7mjn (2307.58 nm^3, 142 mM Na+ = 197 Na+/box)  
 -23 (alpha)
 * 7v80 (2517.75 nm^3, 142 mM Na+ = 215 Na+/box)  
@@ -107,7 +109,7 @@ Note: Select ***12*** to replace sol(water) to ions.
 > `gmx grompp -c ../sol/${pdbname}_sol.pdb -f ../../../mdp/ions.mdp -o ion.tpr -p ../g/LM.top -maxwarn 5`  
 
 > `gmx genion -s ion.tpr -o ${pdbname}_ion.pdb -pname NA -np 220 -nname CL -neutral`  
-(6m0j: NA -np ***214***; 7a91: NA -np ***302***; 7mjn: NA -np ***197***; 7v80: NA -np ***215***; 7v80: NA -np ***212***; 7v8b: NA -np ***220***)  
+(6m0j: NA -np ***214***; 7a91: NA -np ***302***; 7mjn: NA -np ***197***; 7v80: NA -np ***215***; 7v80: NA -np ***212***; 7v8b: NA -np ***220***; 7wbl: ***205***; 7xo9: ***202***)  
 
 ## 4.2: revise forcefield file top
 > `vi ../g/LM.top`  
@@ -239,12 +241,16 @@ SELCET: (centering group)
 `gmx make_ndx -f ../md/${pdbname}_md.pdb -o index_md.ndx `   
 > \> `ri xxx-xxx`  
 > 6m0j => 19: `ri 1-597` (hACE2), 20: `ri 598-791` (S1RBD)  
+> 7wbl => 19: `ri 1-596` (hACE2), 20: `ri 597-790` (S1RBD)  
+> 7xo9 => 19: `ri 1-595` (hACE2), 20: `ri 596-789` (S1RBD)  
 > 7a91 => 19: `ri 1-588` (hACE2), 20: `ri 589-821` (S1RBD)  
 > 7mjn, 7v80, 7v84, 7v8b => 19: `ri 201-796` (hACE2), 20: `ri 1-200` (S1RBD)  
 
 ### 8.3.1: create index for mutual region     
 > \> `ri xxx-xxx | ri xxx-xxx | ri xxx-xxx & 4` (4: backbone)  
 > 6m0j => 21: `ri 1-115 | ri 123-595 | ri 598-791 & 4`  
+> 7wbl => 21: `ri 1-115 | ri 123-595 | ri 597-790 & 4`  
+> 7xo9 => 21: `ri 1-115 | ri 123-595 | ri 596-789 & 4`  
 > 7a91 => 21: `ri 1-782 & 4`   
 > 7mjn, 7v80, 7v84, 7v8b => 21: `ri 201-315 | ri 323-795 | ri 3-196 & 4`  
 
@@ -330,7 +336,7 @@ echo 19 20 | g_mmpbsa -f md_noPBC.xtc        -s md.tpr \
 
 # 9: Others
 ## 9.1: check space usage (Taiwania 1)
-`lfs quota -u uxxxxxxx /home`
+`lfs quota -u u1397281 /home`
 
 ## 9.2: pymol - alter chain, segi  
 pdb structure: `/name/segi/chain/residues`  

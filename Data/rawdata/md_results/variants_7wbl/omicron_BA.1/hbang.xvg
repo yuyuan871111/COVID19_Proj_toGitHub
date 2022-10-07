@@ -1,0 +1,47 @@
+# This file was created Fri Oct  7 00:39:31 2022
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.6 (-:
+# 
+# Executable:   /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed/bin/gmx_mpi
+# Data prefix:  /opt/ohpc/pkg/gromacs/gromacs_2018.6_plumed
+# Working dir:  /home/u1397281/Project/COVID19_proj/gromacs/hACE2_S1RBD_7wbl/omicron_BA.1/analysis
+# Command line:
+#   gmx hbond -f md_noPBC.xtc -s ../md/md.tpr -tu ns -n ../index/index_md.ndx -temp 310.15 -num -ac -dist -ang
+# gmx hbond is part of G R O M A C S:
+#
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00311801
+       1.5 0.00957847
+       2.5  0.0165038
+       3.5  0.0209444
+       4.5  0.0266514
+       5.5  0.0317572
+       6.5  0.0362058
+       7.5  0.0398208
+       8.5  0.0420491
+       9.5  0.0436201
+      10.5  0.0450228
+      11.5  0.0458885
+      12.5  0.0450869
+      13.5  0.0453194
+      14.5  0.0436682
+      15.5  0.0422334
+      16.5  0.0418807
+      17.5  0.0413998
+      18.5  0.0391555
+      19.5  0.0378329
+      20.5  0.0359573
+      21.5  0.0347229
+      22.5  0.0329515
+      23.5  0.0314607
+      24.5  0.0309958
+      25.5  0.0291923
+      26.5  0.0276132
+      27.5  0.0272365
+      28.5  0.0268357
+      29.5  0.0252968
