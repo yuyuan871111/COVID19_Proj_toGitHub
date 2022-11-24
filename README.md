@@ -41,8 +41,8 @@ Path:  `./Data/metadata`
 Path: `./Data/rawdata`  
 
 #### Molecular dyanmics (MD) results
-`variants_6m0j`: WT/alpha/beta/gamma/delta/delta plus/epsilon/gamma/lambda/mu/omicron.  
-`variants_7a91`: WT/alpha/beta/gamma/delta/delta plus/epsilon/gamma/lambda/mu/omicron.  
+`variants_6m0j`: WT/alpha/beta/gamma/delta/delta plus/epsilon/gamma/lambda/mu/omicron BA.1, BA.2, BA.2.12.1, BA.4/5.  
+`variants_7a91`: WT/alpha/beta/gamma/delta/delta plus/epsilon/gamma/lambda/mu/omicron BA.1, BA.2, BA.2.12.1, BA.4/5.  
 `variants_7mjn`: alpha.  
 `variants_7v80`: beta.  
 `variants_7v84`: gamma.  
