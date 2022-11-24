@@ -1,7 +1,8 @@
 # COVID-19 Project  
 
-[![hackmd-github-sync-badge](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg/badge)](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg)
-
+[![hackmd-github-sync-badge](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg/badge)](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg)  
+Please cite:   
+Yang, Y. Y. and Tseng Y. J. (2022). “The evolution of SARS-CoV-2 Omicron Variants on the spike-protein and hACE2 interface – determined by the hydrogen bonding formations.” Briefings in Functional Genomics.  
 
 ## Analysis  
 All analysis are in Jupyter notebook files.  
