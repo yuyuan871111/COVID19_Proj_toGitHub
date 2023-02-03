@@ -1,8 +1,8 @@
-# COVID-19 Project  
+# The evolution of the spike protein and hACE2 interface of SARS-CoV-2 omicron variants determined by hydrogen bond formation
 
 [![hackmd-github-sync-badge](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg/badge)](https://hackmd.io/W81hymKPTK2Pzn2qk5JJJg)  
 Please cite:   
-Yang, Y. Y. and Tseng Y. J. (2022). “The evolution of SARS-CoV-2 Omicron Variants on the spike-protein and hACE2 interface – determined by the hydrogen bonding formations.” Briefings in Functional Genomics.  
+Yu-Yuan Yang, Yufeng Jane Tseng, The evolution of the spike protein and hACE2 interface of SARS-CoV-2 omicron variants determined by hydrogen bond formation, Briefings in Functional Genomics, 2023;, elac053, https://doi.org/10.1093/bfgp/elac053
 
 ## Analysis  
 All analysis are in Jupyter notebook files.  
